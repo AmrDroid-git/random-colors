@@ -1,0 +1,11 @@
+{
+  "name": "couleurs_aleatoires",
+  "version": "1.0.0",
+  "description": "losque vous cliquez sur une boule sa couleur change aleatoirement",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slama Amr",
+  "license": "ISC"
+}
